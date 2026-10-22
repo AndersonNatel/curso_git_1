@@ -1,8 +1,5 @@
 Testando atualização do clone
 Teste Log 2
-<<<<<<< Updated upstream
 Novo test
-=======
 Novo teste
 B Teste
->>>>>>> Stashed changes
