@@ -1,5 +1,5 @@
 Testando atualização do clone
 Teste Log 2
-Novo test
 Novo teste
 B Teste
+New Test
