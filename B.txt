@@ -1,8 +1,3 @@
 Testando atualização do clone
 Teste Log 2
 Novo teste
-B Teste
-<<<<<<< HEAD
-=======
-Anderson
->>>>>>> teste_criacao_2
